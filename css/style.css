@@ -1,0 +1,72 @@
+.nav-link {
+    font-size: 20px !important;
+    color: rgba(0, 0, 0, 0.644);
+    font-weight: 600;
+}
+
+.carousel-indicators [data-bs-target] {
+    height: 10px !important;
+    border: 0;
+    background-color: #5a5958c2;
+    border-radius: 5px !important;
+}
+
+.carousel-indicators .active {
+    background-color: #f5a108c2 !important;
+    width: 50px !important;
+}
+
+/* feature section */
+.feature-section {
+    margin: 100px 0;
+}
+
+.feature-section a {
+    text-decoration: none;
+    color: #f5a208;
+    font-size: 15px;
+}
+
+.card {
+    border: 0 !important;
+    box-shadow: rgba(140, 157, 166, 0.2) 0px 8px 24px;
+}
+
+.category-section span {
+    display: block;
+    height: 6px;
+    width: 175px;
+    background-color: #f5a208;
+    margin: auto;
+    border-radius: 5px;
+}
+
+.category-item {
+    text-decoration: none;
+    color: rgba(0, 0, 0, 0.644);
+    padding: 20px;
+    box-shadow: rgba(140, 157, 166, 0.2) 0px 8px 24px;
+    display: block !important;
+}
+
+.category-item img {
+    margin: auto;
+    display: block;
+}
+
+footer {
+    background-color: #f5a2088a;
+}
+
+.ancortag-linkup li {
+    list-style: none;
+}
+
+.ancortag-linkup a {
+    text-decoration: none;
+    color: black;
+}
+
+.login-color {
+    color: #f5a208;
+}
